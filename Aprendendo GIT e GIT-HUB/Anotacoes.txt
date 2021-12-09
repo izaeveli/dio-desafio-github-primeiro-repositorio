@@ -1,10 +1,10 @@
 Primeira Aula:
 
-dir
-cd
-cd ..
-cls
-mkdir
-echo ..> arq.txt
-del [x]
-rmdir xxx /s /a
+dir                     -->  listar diretorios
+cd                      -->  Entrar no diretório
+cd ..                   -->  Sair do diretório
+cls                     -->  Limpar a tela do git bash
+mkdir                   -->  Criar nova pasta
+echo ..> arq.txt        -->  Criar arq de texto
+del [x]                 -->  Deletar arquivo
+rmdir xxx /s /a         -->  Remover diretório
