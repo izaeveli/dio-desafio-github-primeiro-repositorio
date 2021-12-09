@@ -1,0 +1,10 @@
+Primeira Aula:
+
+dir
+cd
+cd ..
+cls
+mkdir
+echo ..> arq.txt
+del [x]
+rmdir xxx /s /a
